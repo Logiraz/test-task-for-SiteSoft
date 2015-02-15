@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Тестовое задание</string>
+    <string name="title_section1">Предприятия</string>
+    <string name="title_section2">Новости</string>
+    <string name="title_section3">Контакты</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+    <string name="contacts">Адрес: 620026, Екатеринбург, ул. Белинского, дом 86, 7 секция, 6 этаж, офис 601\nТелефон:
+        +7 (343) 345-04-02 \nЭлектронная почта: mail@sitesoft.ru</string>
+    <string name="enterprisedbname">entdb.db</string>
+    <string name="newsdbname">newsdb.db</string>
+    <string name="enterprisedbtablename">entable</string>
+    <string name="newsdbtablename">newstable</string>
+    <string name="tableraw0">id</string>
+    <string name="tableraw1">enterprise</string>
+    <string name="tableraw2">title</string>
+    <string name="tableraw3">description</string>
+    <string name="cleartable">clear table</string>
+</resources>
